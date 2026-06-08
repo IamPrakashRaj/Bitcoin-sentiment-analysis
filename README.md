@@ -52,3 +52,4 @@ The main idea is to compare trading results during different market moods like:
 ## Conclusion
 
 This analysis shows that Bitcoin market sentiment can help explain trader behavior and performance. It also shows that risk and consistency are important, not just total profit.
+# Bitcoin-sentiment-analysis
